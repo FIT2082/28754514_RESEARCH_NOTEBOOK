@@ -6,6 +6,4 @@ The data set given was taken from one of the buildings at Monash, and the temper
 
 As stated in the project description, the aim of this project is to be able to simulate how the AC units perform as a function of different parameters. We would like to plot the room temperature as a function of time, and from this, try and determine given a particular outside temperature, if we can figure out what the inside temperature is going to be. Doing so would allow building managers better control over automation of AC units, and this could also potentially be helpful for energy efficiency purposes.  
 
-To-do before next meeting
-
-Have a more detailed look at the data set, Preliminary readings
+To-do before next meeting: Have a more detailed look at the data set, Preliminary readings
