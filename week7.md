@@ -1,0 +1,5 @@
+Our goal from the previous meeting was to try and decide which variables would be worthwhile for us to include in our model. In order to decide this, we looked at the plots of room temperature against other variables such as starting temperature of the room, and the outside temperature of the room to try and see if there were any that appeared to have a significant relationship. We concluded that the rate of outside and inside temperature were definitely 2 things worth looking at. Further analysis will need to be done. 
+
+One thing that popped up in the meeting, was the possibility that the AC was not on during the weekends at all – it seemed that way from our plots. Thus, we decided to focus more on the weekdays instead. 
+
+Another thing we would like to accomplish, would be to be able to have a function that can be expanded on to use for all the rooms, as right now the function is for one room in particular. The reason why this may be a bit tricky, is that different sets of variables are given for each room, and there are some inconsistencies across the files. Hence, some thought would need to go into generalising these functions. 
