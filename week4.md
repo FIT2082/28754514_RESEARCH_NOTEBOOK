@@ -1,0 +1,2 @@
+We are continuing to conduct an exploratory analysis to try and get a better feel of the data that has been provided to us. 
+At first, we modelled the whole year. While this did give us an overview of the data, it didn’t give us much information in the way of how the air conditioning in the room behaved. Rather, it simply showed us the seasonal variation of the data, which is not what we were interested in. Hence, we have decided to narrow our scope, modelling the data in terms of months, weeks and days to try and see if we could identify any distinctive patterns.
